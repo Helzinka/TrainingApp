@@ -1,0 +1,1 @@
+from .TrainingApp import TraingApp
