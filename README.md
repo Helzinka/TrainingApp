@@ -15,8 +15,6 @@ APPS = {
 		'pyplanet.apps.contrib.admin',
 		#'pyplanet.apps.contrib.jukebox',
 		#'pyplanet.apps.contrib.karma',
-
-        ...
 		'apps.TrainingApp.training'
     ]}
 ```
